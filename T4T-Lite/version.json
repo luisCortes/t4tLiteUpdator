@@ -1,6 +1,6 @@
 {
   "versionName":"1.5.8",
-  "apkUrl":"https://github.com/NewApp.apk",
+  "apkUrl":"https://github.com/luisCortes/t4tLiteUpdator/blob/master/T4T-Lite/app-prod-release.apk?raw=true",
   "forceUpdate": false,
   "inherit": true
 }
